@@ -6,16 +6,6 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,html,css" alt="languages" />
 </p>
 
-<div align="left">
-  <a href="https://www.instagram.com/qamiralii" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="amiraliabdi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-</div>
-
 ###
   <img align="right" alt="Mohammad" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
@@ -47,7 +37,33 @@
 - Clean code, **SOLID principles**, **Dependency Injection / Inversion**, **composition**, layered architecture  
 - Logging, debugging, optimizing, and breaking things until they finally work 😅  
 
-<br><br> <p> In the world of programming, every day is a new adventure, and I'm excited to be a part of this thrilling journey.</p>
+ <p> In the world of programming, every day is a new adventure, and I'm excited to be a part of this thrilling journey.</p>
+ 
+###
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/qamiralii" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg"
+      alt="instagram"
+      height="32"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Telegram -->
+  <a href="https://t.me/@qamiralii" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Telegram.png"
+      alt="telegram"
+      height="32"
+    />
+  </a>
+</p>
+
+
 ###
 <br clear="both">
 
@@ -57,3 +73,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
