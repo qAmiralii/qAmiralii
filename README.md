@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm AmirAli </h1>
 
+<h3 align="center">Frontend Developer • Angular Enthusiast • Fan of Tailwind 🎨</h3>
+
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,html,css" alt="languages" />
 </p>
